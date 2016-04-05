@@ -13,8 +13,8 @@
     "type": "git",
     "url": "https://github.com/oysterbooks/oy"
   },
-  "dependencies": {
-    "react": "^0.13.3"
+  "peerDependencies": {
+    "react": "*"
   },
   "devDependencies": {
     "babel": "^5.5.6",
