@@ -13,7 +13,7 @@
     "type": "git",
     "url": "https://github.com/oysterbooks/oy"
   },
-  "peerDependencies": {
+  "dependencies": {
     "react": "*"
   },
   "devDependencies": {
